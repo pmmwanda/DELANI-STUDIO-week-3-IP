@@ -16,7 +16,7 @@ $(document).ready(() => {
     $(".hide-product-image").toggle();
   });
 
-  //hover for each portfolio item.
+  //hover function for each portfolio item.
 
   $(".Hover").hover(
     () => {
