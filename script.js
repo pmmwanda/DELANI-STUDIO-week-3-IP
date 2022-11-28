@@ -1,16 +1,16 @@
 $(document).ready(() => {
   // what we do section
-  //design
+  
   $("#design").click(() => {
     $("#design-showing").toggle();
     $(".hide-design-image").toggle();
   });
-//development
+
   $("#development").click(() => {
     $("#development-showing").toggle();
     $(".hide-development-image").toggle();
   });
-//product-mamangement
+
   $("#product-management").click(() => {
     $("#product-showing").toggle();
     $(".hide-product-image").toggle();
