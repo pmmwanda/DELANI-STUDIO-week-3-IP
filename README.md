@@ -17,8 +17,10 @@ BUGS:
 No uknown bugs
 
 LINK TO WEBPAGE:
-https://pmmwanda.github.io/DELANI-STUDIO-week-3-IP/
 https://github.com/pmmwanda/DELANI-STUDIO-week-3-IP
+
+LIVE LINK:
+https://pmmwanda.github.io/DELANI-STUDIO-week-3-IP/
 
 SUPPORT AND CONTACT DETAILS:
 
