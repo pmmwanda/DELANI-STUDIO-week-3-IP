@@ -2,7 +2,7 @@ DELANI STUDIO:
 This build is a web application designed for Delani Studio Company. It showcases various effects such as hover and effect which both make use of jQuery. Mailchimp API has been intergrated to the HTML in order to collect user's data.
 
 SETUP INSTRUCTIONS:
-Good news! You do not need to run a server or install any dependencies in order for this site to work. Absolutely no set up is required on your databases.There is also no other code this app depends on.
+Absolutely no set up is required on your databases.There is also no other code this app depends on.
 
 AUTHOR:
 Pauline M'mwanda, Version Date: 28th November 2022
