@@ -7,8 +7,8 @@ Pauline M'mwanda, Version Date: 28th November 2022
 TECHNOLOGIES USED
 This is a webpage written in HTML and JavaScript and designed with custom CSS, Bootstrap as well as jQuery.
 
-SETUP INSTRUCTIONS
-You do not need to run a server or install any dependencies in order for this site to work. Absolutely no set up is required on your databases.There is also no other code this app depends on.
+BDD
+See a small description of what the application does on the landing page. You are able to hover on the portifolio. On mouse click on WHAT WE DO Images you are able to see design, web development and product. You are able to send an e-mail.
 
 BUGS
 No uknown bugs
